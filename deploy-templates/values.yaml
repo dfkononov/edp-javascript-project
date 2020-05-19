@@ -1,4 +1,4 @@
-name: edp-react-helloworld
+name: im-react-helloworld
 namespace: ""
 cdPipelineName: ""
 cdPipelineStageName: ""
@@ -12,5 +12,5 @@ ingress:
   required: false
 
 image:
-  name: edp-react-helloworld
+  name: im-react-helloworld
   version: latest
