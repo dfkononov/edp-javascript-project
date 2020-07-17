@@ -10,7 +10,7 @@ database:
 
 ingress:
   required: true
-  site: test
+  site: ee
   path: /
 
 image:
