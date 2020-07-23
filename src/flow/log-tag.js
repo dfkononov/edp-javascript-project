@@ -1,5 +1,6 @@
 // @flow
 
+
 const LogTagEnum = Object.freeze({
   MYSQL: '[MySQL]',
   DYNAMO_DB: '[DynamoDB]',
