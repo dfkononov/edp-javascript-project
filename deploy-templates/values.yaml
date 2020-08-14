@@ -3,6 +3,7 @@ namespace: ""
 cdPipelineName: ""
 cdPipelineStageName: ""
 dnsWildcard: eks-delivery.aws.main.edp.projects.epam.com
+framework: React
 
 database:
   required: false
