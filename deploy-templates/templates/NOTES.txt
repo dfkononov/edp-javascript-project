@@ -1,0 +1,1 @@
+1. Application edp-javascript-project has been successfully deployed!!
